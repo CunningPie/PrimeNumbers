@@ -1,0 +1,7 @@
+F:\GitHub\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+F:\GitHub\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+F:\GitHub\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+F:\GitHub\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+F:\GitHub\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+F:\GitHub\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+F:\GitHub\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
